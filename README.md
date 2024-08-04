@@ -37,32 +37,39 @@ Tenho curiosidade e vontade de aprender muitas coisas desse mundão. Sou mãe de
 
 <br>
 
-## ⭐️ Certificações 
- <br>
- <a href="https://www.credly.com/badges/fb024453-c165-4159-a9f6-da87fb213eed/linked_in_profile" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" alt="pytorch" height="60px"/> </a> 
- <a href="https://www.credly.com/badges/f1b3ce74-59df-4e68-972d-a2c96684546e/linked_in_profile" target="_blank"> <img align="left" src="https://th.bing.com/th/id/OIP.abKAcnC23yvdnWXIcaJhhQAAAA?rs=1&pid=ImgDetMain" alt="tensorflow" height="60px"/> </a>
- <a href="https://www.credly.com/earner/earned/badge/49adb3e8-37bb-42a6-b952-63aee59a808b" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="pytorch" height="60px"/> </a> </p>
- <br>
-
+## ⭐️ Projetos
+Link nas imagens
+  <br>
+  
+  <a href="https://rose-notebook-ba0.notion.site/Baob-Microsoft-3c718ed415924fbf98058f9beb8371db" target="_blank"> <img align="left" src="https://github.com/larigiampietro/larigiampietro/blob/main/baob.jpg" alt="tensorflow" height="120px"/> 
+  <a href="https://rose-notebook-ba0.notion.site/Baob-Microsoft-3c718ed415924fbf98058f9beb8371db" target="_blank"> <img align="left" src="https://github.com/larigiampietro/larigiampietro/blob/main/micros.jpg" alt="tensorflow" height="120px"/> </a>
+  
+  <br>
+<br>
+<br>
+<br>
 <br>
 
+## ⭐️ Certificações 
+  <br>
+    <a href="https://www.credly.com/badges/fb024453-c165-4159-a9f6-da87fb213eed/linked_in_profile" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" alt="pytorch" height="120px"/> </a> 
+    <a href="https://www.credly.com/badges/f1b3ce74-59df-4e68-972d-a2c96684546e/linked_in_profile" target="_blank"> <img align="left" src="https://th.bing.com/th/id/OIP.abKAcnC23yvdnWXIcaJhhQAAAA?rs=1&pid=ImgDetMain" alt="tensorflow" height="120px"/> </a>
+    <a href="https://www.credly.com/earner/earned/badge/49adb3e8-37bb-42a6-b952-63aee59a808b" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="pytorch" height="120px"/>
+    <a href="https://www.credly.com/badges/3ff08aa1-59ed-4038-b090-df869cb751ad/public_url" target="_blank"> <img align="left" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="pytorch" height="120px"/> </a> </p>
+  <br>
+
+<br>
+<br>
+<br>
 <br>
 
 ## ⭐️ Hard Skills
   <br>
-<div align="center">
-  <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <div align="center">
+    <a <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> </a>
+    <a <!-- Windows --> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a> </p>
+  </div>
   <br>
-</div>
 <br>
-
-<br>
-
-## ⭐️ Projetos
-  <br>
-  
-  https://rose-notebook-ba0.notion.site/Baob-Microsoft-3c718ed415924fbf98058f9beb8371db
-
-  <br>
 
 <br>
