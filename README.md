@@ -60,7 +60,8 @@ Tenho curiosidade e vontade de aprender muitas coisas desse mundão. Sou mãe de
 
 ## ⭐️ Projetos
   <br>
-  Em construção...
+  
+  https://rose-notebook-ba0.notion.site/Baob-Microsoft-3c718ed415924fbf98058f9beb8371db
 
   <br>
 
