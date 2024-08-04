@@ -20,7 +20,7 @@
 
 ## ⭐️ Sobre mim
 
-Tenho curiosidade e vontade de aprender muitas coisas desse mundão. Sou mãe de uma criança queer e 3 gatos. Estudo <b>Segurança Cibernética</b> pela Ampli (2023-2025) e atualmente estou participando do último ano de um projeto de 3 anos em cibersegurança pelo Instituto Baobá, ele inclui uma educação baseada na consciência com yoga e meditação como base para o desenvolvimento socioemocional.
+Tenho curiosidade e vontade de aprender muitas coisas desse mundão. Sou mãe de uma criança queer e 3 gatos. Estudo <b>Tecnologia da informação</b> pela UNIVESP (2024-2027) e atualmente estou participando do último ano de um projeto de 3 anos em cibersegurança pelo Instituto Baobá, ele inclui uma educação baseada na consciência com yoga e meditação como base para o desenvolvimento socioemocional.
 
 
 <b>Além da cibersegurança...</b>
