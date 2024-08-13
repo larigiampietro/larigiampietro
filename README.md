@@ -41,7 +41,7 @@ Tenho curiosidade e vontade de aprender muitas coisas desse mundão. Sou mãe de
 Link nas imagens
   <br>
   
-  <a href="https://rose-notebook-ba0.notion.site/Baob-Microsoft-3c718ed415924fbf98058f9beb8371db" target="_blank"> <img align="left" src="https://github.com/larigiampietro/larigiampietro/blob/main/baob.jpg" alt="tensorflow" height="120px"/> 
+  <a href="https://institutobaoba.org/" target="_blank"> <img align="left" src="https://github.com/larigiampietro/larigiampietro/blob/main/baob.jpg" alt="tensorflow" height="120px"/> 
   <a href="https://rose-notebook-ba0.notion.site/Baob-Microsoft-3c718ed415924fbf98058f9beb8371db" target="_blank"> <img align="left" src="https://github.com/larigiampietro/larigiampietro/blob/main/micros.jpg" alt="tensorflow" height="120px"/> </a>
   
   <br>
