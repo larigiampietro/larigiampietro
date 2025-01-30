@@ -22,7 +22,6 @@
 
 Tenho curiosidade e vontade de aprender muitas coisas desse mundão. Sou mãe de uma criança queer e 3 gatos. Estudo <b>Tecnologia da informação</b> pela UNIVESP (2024-2027) e atualmente estou participando do último ano de um projeto de 3 anos em cibersegurança pelo Instituto Baobá, ele inclui uma educação baseada na consciência com yoga e meditação como base para o desenvolvimento socioemocional.
 
-
 <b>Além da cibersegurança...</b>
 
 🎮 Amo jogos eletrônicos.
@@ -41,8 +40,8 @@ Tenho curiosidade e vontade de aprender muitas coisas desse mundão. Sou mãe de
 Link nas imagens
   <br>
   
-  <a href="https://institutobaoba.org/" target="_blank"> <img align="left" src="https://github.com/larigiampietro/larigiampietro/blob/main/baob.jpg" alt="tensorflow" height="120px"/> 
-  <a href="https://rose-notebook-ba0.notion.site/Baob-Microsoft-3c718ed415924fbf98058f9beb8371db" target="_blank"> <img align="left" src="https://github.com/larigiampietro/larigiampietro/blob/main/micros.jpg" alt="tensorflow" height="120px"/> </a>
+  <a href="https://institutobaoba.org/" target="_blank"> <img align="left" src="https://github.com/larigiampietro/larigiampietro/blob/main/baob.jpg" alt="Baobá Institute" height="120px"/> 
+  <a href="https://rose-notebook-ba0.notion.site/Baob-Microsoft-3c718ed415924fbf98058f9beb8371db" target="_blank"> <img align="left" src="https://github.com/larigiampietro/larigiampietro/blob/main/micros.jpg" alt="Microsoft Project" height="120px"/> </a>
   
   <br>
 <br>
@@ -52,10 +51,10 @@ Link nas imagens
 
 ## ⭐️ Certificações 
   <br>
-    <a href="https://www.credly.com/badges/fb024453-c165-4159-a9f6-da87fb213eed/linked_in_profile" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" alt="pytorch" height="120px"/> </a> 
-    <a href="https://www.credly.com/badges/f1b3ce74-59df-4e68-972d-a2c96684546e/linked_in_profile" target="_blank"> <img align="left" src="https://th.bing.com/th/id/OIP.abKAcnC23yvdnWXIcaJhhQAAAA?rs=1&pid=ImgDetMain" alt="tensorflow" height="120px"/> </a>
-    <a href="https://www.credly.com/earner/earned/badge/49adb3e8-37bb-42a6-b952-63aee59a808b" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="pytorch" height="120px"/>
-    <a href="https://www.credly.com/badges/3ff08aa1-59ed-4038-b090-df869cb751ad/public_url" target="_blank"> <img align="left" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="pytorch" height="120px"/> </a> </p>
+    <a href="https://www.credly.com/badges/fb024453-c165-4159-a9f6-da87fb213eed/linked_in_profile" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" alt="CompTIA A+" height="120px"/> </a> 
+    <a href="https://www.credly.com/badges/f1b3ce74-59df-4e68-972d-a2c96684546e/linked_in_profile" target="_blank"> <img align="left" src="https://th.bing.com/th/id/OIP.abKAcnC23yvdnWXIcaJhhQAAAA?rs=1&pid=ImgDetMain" alt="Cisco CyberOps Associate" height="120px"/> </a>
+    <a href="https://www.credly.com/earner/earned/badge/49adb3e8-37bb-42a6-b952-63aee59a808b" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="CCNA" height="120px"/>
+    <a href="https://www.credly.com/badges/3ff08aa1-59ed-4038-b090-df869cb751ad/public_url" target="_blank"> <img align="left" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Microsoft Azure Fundamentals" height="120px"/> </a> </p>
   <br>
 
 <br>
