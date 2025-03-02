@@ -8,29 +8,9 @@
 
 <div align="center">
   <!-- Work Links -->
-  <a href="https://github.com/larigiampietro" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larissagiampietro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:larissa.cybersec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!-- Social Links -->
-  <a href="https://www.instagram.com/lari_giampietro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    
+  <a href="https://www.linkedin.com/in/larissagiampietro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </a>
 </div>
-
-## ⭐️ Sobre mim
-
-Tenho curiosidade e vontade de aprender muitas coisas desse mundão. Sou mãe de uma criança queer e 3 gatos. Estudo <b>Tecnologia da informação</b> pela UNIVESP (2024-2027) e atualmente estou participando do último ano de um projeto de 3 anos em cibersegurança pelo Instituto Baobá, ele inclui uma educação baseada na consciência com yoga e meditação como base para o desenvolvimento socioemocional.
-
-<b>Além da cibersegurança...</b>
-
-🎮 Amo jogos eletrônicos.
-
-📸 Estudando audiovisual e fotografia como hobby.
-  
-🎧 Adoro caminhar ouvindo músicas.
-
-🔎 Gosto de pesquisar sobre vários assuntos, alguns são sociologia, psicologia, antropologia e política.
-
-📃 Pratico escrita criativa.
 
 <br>
 
